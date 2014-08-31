@@ -1,4 +1,4 @@
-child
+source name: child
 =====
 
 x-children
