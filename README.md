@@ -7,7 +7,6 @@ X-Children is a revolutionary PoW coin featuring an established difficulty adjus
 
 Features:
 
-Innovative POA (proof of AntiScam) to secure investor from frauds.
 no IPO
 no premine
 60 Second block time.
@@ -44,6 +43,6 @@ The fundament for this coin is the robust framework of Darkcoin, a proven design
 
 In its core, X-Children is a cryptocurrency that aims to motivate miners, as well as traders to invest in it, to eventually work towards the good cause, to help the charities in Gaza through the “Proof of Heart” (massive mining fee reserved for the charity airdrop is at pool operators discretion)
 
-Our pool will have a fixed percentage (40%), reserved for the public address used to stack the Airdrop coins (30%) and the pool operation costs (10%).
+Our pool will have a fixed percentage (38%), reserved for the public address used to stack the Airdrop coins (30%) and the pool operation costs (2%).
 
 Once this goal is fulfilled, and the donation is public and confirmed, the coin will continue being mineable, and new objectives can be set in the near future, whenever the need for compassion and love is needed.
